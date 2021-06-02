@@ -12,11 +12,15 @@
 
 ### Requirements
 
-First execute (Cell->Run All):
+First execute in order:
 
 1.Compress_train.ipynb 
+
 2.Compress_test.ipynb
+
 3.GAN-training.ipynb (optional - the trained model and scaler are already on the folder *.h5 / *.pkl)
+
+To execute: 
 
 From inside the notebooks 
 ```
