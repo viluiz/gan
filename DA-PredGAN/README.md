@@ -4,8 +4,36 @@
 
 - 2.Compress_test.ipynb -> Apply the PCA Compression to the test dataset. 
 
-- 3.GAN-training.ipynb -> Train a GAN and save the model 
+- 3.GAN-training.ipynb -> Train a GAN and save the model
 
 - 4.GAN-Prediction.ipynb -> Predict with the GAN 
 
 - 5.GAN-DataAssimilation.ipynb -> Assimilate observed data with the GAN 
+
+### Requirements
+
+First execute (Cell->Run All):
+
+1.Compress_train.ipynb 
+2.Compress_test.ipynb
+3.GAN-training.ipynb (optional - the trained model and scaler are already on the folder *.h5 / *.pkl)
+
+From inside the notebooks 
+```
+Cell->Run All 
+```
+
+From the command line:
+```
+jupyter nbconvert --to notebook --execute <notebookname>.ipynb
+```
+
+### Run the prediction 
+
+4.GAN-Prediction.ipynb 
+
+### Run the data assimilation 
+
+5.GAN-DataAssimilation.ipynb
+
+
