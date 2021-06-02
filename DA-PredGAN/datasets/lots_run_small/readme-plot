@@ -1,0 +1,14 @@
+
+
+********************************************
+the csv file must be filename_base.csv
+
+python plot_virus_output.py filename_base.csv
+
+use eog to look at filename_base.png file
+
+eog filename_base.png
+
+********************************************
+for the 260 groups do the same as above but use:
+python plot_virus_260g_output.py filename_base.csv

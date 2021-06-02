@@ -1,0 +1,9 @@
+Change the following in the python code: python run_lots_virus.py
+
+nruns = 3 # number of simulations
+nrandom = 2  # 2 or 10 # number of variables set randomnly per simulation
+
+
+To run lots of simulations use the command: 
+python run_lots_virus.py
+

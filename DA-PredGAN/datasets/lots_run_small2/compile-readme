@@ -1,0 +1,11 @@
+gfortran -ffree-line-length-none -ffixed-line-length-none   -fdefault-real-8 -o decomp-general decomp-general.f90 
+
+debugging: 
+
+gfortran -ffree-line-length-none -ffixed-line-length-none   -fdefault-real-8 -fbounds-check -ffpe-trap=invalid,zero,overflow -o decomp-general decomp-general.f90
+
+
+
+
+algebra_for_time_windows.f90: subroutine just used for generating python library using commend: f2py -c algebra_for_time_windows.f90 -m algebra_for_time_windows
+This produces a library: algebra_for_time_windows.so   (not a text file)
