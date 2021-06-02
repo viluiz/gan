@@ -1,8 +1,12 @@
 # GAN for time series prediction, data assimilation and uncertainty quantification
 
-This repository is the official implementation of [Digital twins based on bidirectional LSTM and GAN for modelling the COVID-19 pandemic](https://arxiv.org/abs/2102.02664). 
-This repository is the official implementation of [Data Assimilation Predictive GAN (DA-PredGAN): applied to determine the spread of COVID-19](https://arxiv.org/abs/2105.07729). 
-This repository is the official implementation of [GAN for time series prediction, data assimilation and uncertainty quantification](https://arxiv.org/abs/2105.13859). 
+This repository is the official implementation of: 
+
+[Digital twins based on bidirectional LSTM and GAN for modelling the COVID-19 pandemic](https://arxiv.org/abs/2102.02664). 
+
+[Data Assimilation Predictive GAN (DA-PredGAN): applied to determine the spread of COVID-19](https://arxiv.org/abs/2105.07729). 
+
+[GAN for time series prediction, data assimilation and uncertainty quantification](https://arxiv.org/abs/2105.13859). 
 
 ## Directories:
 
