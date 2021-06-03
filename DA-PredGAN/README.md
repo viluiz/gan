@@ -27,7 +27,7 @@ From inside the notebooks
 Cell->Run All 
 ```
 
-From the command line:
+From the command line
 ```
 $ jupyter nbconvert --to notebook --execute <notebookname>.ipynb
 ```
