@@ -16,6 +16,7 @@ Cell->Run All
 From the command line
 ```
 $ jupyter nbconvert --to notebook --execute <notebookname>.ipynb
+```
 
 ## Requirements
 
