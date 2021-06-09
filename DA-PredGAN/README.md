@@ -10,9 +10,7 @@
 
 - 5.GAN-DataAssimilation.ipynb -> Assimilate observed data with the GAN 
 
-### Requirements
-
-First execute in order:
+### First execute in order:
 
 1.Compress_train.ipynb 
 
@@ -39,5 +37,21 @@ $ jupyter nbconvert --to notebook --execute <notebookname>.ipynb
 ### Run the data assimilation 
 
 5.GAN-DataAssimilation.ipynb
+
+## Requirements
+
+To install requirements:
+
+```setup
+ $ conda env create -f environment.yml 
+ $ conda activate py3ml
+ $ python -m ipykernel install --user --name=python3
+```
+
+Finally, start Jupyter:
+
+```start
+ $ jupyter notebook
+```
 
 

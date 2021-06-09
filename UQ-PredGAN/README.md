@@ -10,9 +10,7 @@
 
 - 5.GAN-UncertaintyQuantification.ipynb -> Quantify uncertainty with the GAN 
 
-### Requirements
-
-First execute in order:
+### First execute in order:
  
 1.ReadCompress.ipynb 
 
@@ -41,5 +39,21 @@ $ jupyter nbconvert --to notebook --execute <notebookname>.ipynb
 ### Run the uncertainty quantification 
 
 5.GAN-UncertaintyQuantification.ipynb
+
+## Requirements
+
+To install requirements:
+
+```setup
+ $ conda env create -f environment.yml 
+ $ conda activate py3ml
+ $ python -m ipykernel install --user --name=python3
+```
+
+Finally, start Jupyter:
+
+```start
+ $ jupyter notebook
+```
 
 
