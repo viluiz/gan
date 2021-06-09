@@ -11,8 +11,8 @@ This repository is the official implementation of:
 ## Directories:
 
 - **PredGAN**: Prediction using GAN - applied to the spatio-temporal spread of COVID-19 in an idealized town.
-- **DA-PredGAN**: Prediction and data assimilation using GAN - applied to the spatio-temporal spread of COVID-19 in an idealized town.
-- **UQ-PredGAN**: Prediction, data assimilation and uncertainty quantification using GAN - applied to the spatio-temporal spread of COVID-19 in an idealized town.
+- **DA-PredGAN**: Data assimilation using GAN - applied to the spatio-temporal spread of COVID-19 in an idealized town.
+- **UQ-PredGAN**: Uncertainty quantification using GAN - applied to the spatio-temporal spread of COVID-19 in an idealized town.
 
 ## Requirements
 
