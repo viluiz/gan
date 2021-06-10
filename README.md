@@ -1,3 +1,5 @@
+source .bashrc
+
 # GAN for time series prediction, data assimilation and uncertainty quantification
 
 This repository is the official implementation of: 
