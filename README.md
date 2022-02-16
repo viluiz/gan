@@ -22,7 +22,7 @@ To install requirements:
 ```setup
  $ conda env create -f environment.yml 
  $ conda activate py3ml
- $ python -m ipykernel install --user --name=python3
+ $ python -m ipykernel install --user --name=python3 (optional)
 ```
 
 Finally, start Jupyter:
