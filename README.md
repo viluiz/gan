@@ -1,4 +1,4 @@
-# A GAN-based Reduced Order Model for Prediction, Data Assimilation and Uncertainty Quantification
+# A GAN-based reduced order model for prediction, data Assimilation and uncertainty quantification
 
 This repository is the official implementation of: 
 
@@ -6,7 +6,7 @@ This repository is the official implementation of:
 
 [Data Assimilation Predictive GAN (DA-PredGAN): applied to determine the spread of COVID-19](https://arxiv.org/abs/2105.07729). 
 
-[GAN for time series prediction, data assimilation and uncertainty quantification](https://arxiv.org/abs/2105.13859). 
+[A GAN-based Reduced Order Model for Prediction, Data Assimilation and Uncertainty Quantification](https://arxiv.org/abs/2105.13859). 
 
 ## Directories:
 
