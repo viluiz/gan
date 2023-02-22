@@ -1,4 +1,4 @@
-# GAN for time series prediction, data assimilation and uncertainty quantification
+# A GAN-based reduced order model for prediction, data Assimilation and uncertainty quantification
 
 This repository is the official implementation of: 
 
