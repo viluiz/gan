@@ -8,7 +8,7 @@
 
 - 4.GAN-DataAssimilation.ipynb -> Assimilate observed data with the GAN 
 
-- 5.GAN-UncertaintyQuantification.ipynb -> Quantify uncertainty with the GAN 
+- 5.GAN-UncertaintyQuantification.ipynb -> Quantify uncertainty with the GAN (with regularization) 
 
 ### First execute in order:
  
