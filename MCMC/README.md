@@ -8,7 +8,7 @@
 
 ## Run
 
-Copy the files to the directories **UQ-PredGAN** and follow the instructions there. The MCMC will take ``a lot of time'' to run.
+Copy the files to the directories **UQ-PredGAN** and follow the instructions there. The MCMC will take a lot of time to run.
 
 
 
