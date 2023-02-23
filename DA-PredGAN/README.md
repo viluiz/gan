@@ -1,4 +1,4 @@
-## Data Assimilation Predictive GAN (DA-PredGAN) - Forecasting spatial variation of COVID-19 infection using GAN
+## (outdated see UQ-PredGAN folder) Data Assimilation Predictive GAN (DA-PredGAN) - Forecasting spatial variation of COVID-19 infection using GAN
 
 - 1.Compress_train.ipynb -> Compress the training snapshots (time steps) using PCA. 
 
