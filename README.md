@@ -16,6 +16,7 @@ This repository is the official implementation of:
 - **datasets**: Datasets of the spatio-temporal spread of COVID-19 in an idealized town. 
 - **GAN_evaluation**: New way of evaluating the GAN training. 
 - **Regularization**: Regularization to improve the GAN-based Reduced Order Model. 
+- **MCMC**: Comparison between the UQ-PredGAN and the Markov chain Monte Carlo (MCMC) methods.
 
 ## Requirements
 
