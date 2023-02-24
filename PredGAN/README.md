@@ -1,4 +1,4 @@
-# (outdated see UQ-PredGAN folder) Predictive GAN (PredGAN) - Forecasting spatial variation of COVID-19 infection using GAN
+# (outdated see DA-PredGAN/UQ-PredGAN folder) Predictive GAN (PredGAN) - Forecasting spatial variation of COVID-19 infection using GAN
 
 - 1.Compression.ipynb -> Compress the 800 variables per time step to 15 variables per time step (the compression used for training and prediction is from PCA. However, there are in this file other types of compression using autoencoders). 
 
