@@ -6,8 +6,6 @@ This repository is the official implementation of:
 
 [Data Assimilation Predictive GAN (DA-PredGAN) Applied to a Spatio-Temporal Compartmental Model in Epidemiology](https://link.springer.com/article/10.1007/s10915-022-02078-1). 
 
-[Generative network-based reduced-order model for prediction, data assimilation and uncertainty quantification](coming soon). 
-
 ## Directories:
 
 - **PredGAN** (outdated see DA-PredGAN/UQ-PredGAN folder): Prediction using GAN - applied to the spatio-temporal spread of COVID-19 in an idealized town.
