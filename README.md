@@ -6,7 +6,7 @@ This repository is the official implementation of:
 
 [Data Assimilation Predictive GAN (DA-PredGAN) Applied to a Spatio-Temporal Compartmental Model in Epidemiology](https://link.springer.com/article/10.1007/s10915-022-02078-1). 
 
-Generative model-based framework for parameter estimation and uncertainty quantification applied to a compartmental model in epidemiology (coming soon)
+[Generative model-based framework for parameter estimation and uncertainty quantification applied to a compartmental model in epidemiology](https://doi.org/10.1016/j.jocs.2024.102451)
 
 ## Directories:
 
